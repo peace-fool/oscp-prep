@@ -8,3 +8,6 @@ Ok Bye.. DO delete later
 this is the next stage of testing..
 
 that is, that shortcut to use to commit text?
+
+
+did my 
