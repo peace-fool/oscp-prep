@@ -13,3 +13,5 @@ that is, that shortcut to use to commit text?
 did my shortcut work?
 
 Yup it did!!
+
+Nice
